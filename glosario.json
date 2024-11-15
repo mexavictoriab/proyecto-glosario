@@ -1,0 +1,446 @@
+{
+    "alfabeto": [
+        {
+            "letra": "A",
+            "palabras": [
+                {
+                    "palabra": "Anchor",
+                    "definición": "Elemento de HTML usado para crear enlaces a otras páginas o secciones de la misma página."
+                },
+                {
+                    "palabra": "Attribute",
+                    "definición": "Propiedad de una etiqueta HTML que proporciona información adicional sobre un elemento."
+                },
+                {
+                    "palabra": "API",
+                    "definición": "Interfaz de programación que permite la interacción entre diferentes componentes de software."
+                }
+            ]
+        },
+        {
+            "letra": "B",
+            "palabras": [
+                {
+                    "palabra": "Branch",
+                    "definición": "Rama de desarrollo en Git que permite trabajar en paralelo sin afectar la versión principal."
+                },
+                {
+                    "palabra": "Bootstrap",
+                    "definición": "Framework de CSS utilizado para diseñar sitios web responsivos y modernos."
+                },
+                {
+                    "palabra": "Body",
+                    "definición": "Elemento de HTML que contiene el contenido principal visible de la página."
+                }
+            ]
+        },
+        {
+            "letra": "C",
+            "palabras": [
+                {
+                    "palabra": "CSS",
+                    "definición": "Lenguaje de hojas de estilo utilizado para definir la presentación de documentos HTML."
+                },
+                {
+                    "palabra": "Commit",
+                    "definición": "Acción en Git para guardar una versión del proyecto con un mensaje descriptivo."
+                },
+                {
+                    "palabra": "Container",
+                    "definición": "Elemento usado para agrupar y organizar contenido en la página web."
+                }
+            ]
+        },
+        {
+            "letra": "D",
+            "palabras": [
+                {
+                    "palabra": "Div",
+                    "definición": "Elemento de HTML que actúa como contenedor genérico para organizar contenido."
+                },
+                {
+                    "palabra": "Deploy",
+                    "definición": "Proceso de publicar una aplicación o página web en un servidor para su uso público."
+                },
+                {
+                    "palabra": "DOCTYPE",
+                    "definición": "Declaración que indica al navegador la versión de HTML utilizada en el documento."
+                }
+            ]
+        },
+        {
+            "letra": "E",
+            "palabras": [
+                {
+                    "palabra": "Element",
+                    "definición": "Componente de HTML compuesto por una etiqueta de inicio, contenido y una etiqueta de cierre."
+                },
+                {
+                    "palabra": "Emmet",
+                    "definición": "Herramienta que acelera la escritura de código HTML y CSS mediante abreviaturas."
+                },
+                {
+                    "palabra": "Editor",
+                    "definición": "Software utilizado para escribir y editar código, como VS Code."
+                }
+            ]
+        },
+        {
+            "letra": "F",
+            "palabras": [
+                {
+                    "palabra": "Footer",
+                    "definición": "Elemento de HTML que representa el pie de página de un documento o sección."
+                },
+                {
+                    "palabra": "Fetch",
+                    "definición": "Comando de Git que permite descargar cambios sin aplicarlos directamente al proyecto local."
+                },
+                {
+                    "palabra": "Flexbox",
+                    "definición": "Modelo de diseño de CSS que distribuye elementos de manera eficiente en un contenedor flexible."
+                }
+            ]
+        },
+        {
+            "letra": "G",
+            "palabras": [
+                {
+                    "palabra": "Git",
+                    "definición": "Sistema de control de versiones que permite gestionar el historial de cambios en proyectos de software."
+                },
+                {
+                    "palabra": "GitHub",
+                    "definición": "Plataforma que permite alojar y compartir repositorios de Git para colaboración."
+                },
+                {
+                    "palabra": "Grid",
+                    "definición": "Sistema de diseño de CSS que organiza contenido en filas y columnas."
+                }
+            ]
+        },
+        {
+            "letra": "H",
+            "palabras": [
+                {
+                    "palabra": "HTML",
+                    "definición": "Lenguaje de marcado estándar utilizado para crear la estructura de páginas web."
+                },
+                {
+                    "palabra": "Header",
+                    "definición": "Elemento semántico de HTML que representa la cabecera de una página o sección."
+                },
+                {
+                    "palabra": "Href",
+                    "definición": "Atributo de la etiqueta <a> que define la URL a la que se dirige un enlace."
+                }
+            ]
+        },
+        {
+            "letra": "I",
+            "palabras": [
+                {
+                    "palabra": "ID",
+                    "definición": "Atributo de HTML que identifica un elemento de manera única en la página."
+                },
+                {
+                    "palabra": "Inline",
+                    "definición": "Tipo de elemento de HTML que no inicia una nueva línea, como <span>."
+                },
+                {
+                    "palabra": "Issue",
+                    "definición": "Función en GitHub para reportar problemas o sugerir mejoras en un proyecto."
+                }
+            ]
+        },
+        {
+            "letra": "J",
+            "palabras": [
+                {
+                    "palabra": "JavaScript",
+                    "definición": "Lenguaje de programación utilizado para agregar interactividad y dinamismo a las páginas web."
+                },
+                {
+                    "palabra": "JSON",
+                    "definición": "Formato de intercambio de datos que es legible por humanos y fácil de usar con JavaScript."
+                },
+                {
+                    "palabra": "Join",
+                    "definición": "Comando en Git para combinar varias ramas en una sola."
+                }
+            ]
+        },
+        {
+            "letra": "K",
+            "palabras": [
+                {
+                    "palabra": "Keyframes",
+                    "definición": "Herramienta de CSS utilizada para definir animaciones complejas mediante puntos clave."
+                },
+                {
+                    "palabra": "Keyword",
+                    "definición": "Palabra clave en programación utilizada para definir propiedades y métodos en CSS o JavaScript."
+                },
+                {
+                    "palabra": "Kernel",
+                    "definición": "Núcleo de un sistema operativo, aunque menos común, puede aparecer en configuraciones avanzadas de desarrollo."
+                }
+            ]
+        },
+        {
+            "letra": "L",
+            "palabras": [
+                {
+                    "palabra": "Link",
+                    "definición": "Elemento de HTML que conecta la página con recursos externos, como hojas de estilo."
+                },
+                {
+                    "palabra": "Lint",
+                    "definición": "Herramienta que revisa el código en busca de errores y mejores prácticas."
+                },
+                {
+                    "palabra": "Loop",
+                    "definición": "Estructura de programación que repite un bloque de código mientras una condición es verdadera."
+                }
+            ]
+        },
+        {
+            "letra": "M",
+            "palabras": [
+                {
+                    "palabra": "Merge",
+                    "definición": "Proceso de combinar cambios de diferentes ramas en una sola en Git."
+                },
+                {
+                    "palabra": "Markdown",
+                    "definición": "Lenguaje de marcado ligero utilizado para dar formato a texto, común en archivos README."
+                },
+                {
+                    "palabra": "Media Query",
+                    "definición": "Regla de CSS utilizada para aplicar estilos específicos según el tamaño de la pantalla."
+                }
+            ]
+        },
+        {
+            "letra": "N",
+            "palabras": [
+                {
+                    "palabra": "Node.js",
+                    "definición": "Entorno de ejecución para JavaScript en el lado del servidor."
+                },
+                {
+                    "palabra": "Navbar",
+                    "definición": "Elemento de interfaz de usuario que facilita la navegación en una página web."
+                },
+                {
+                    "palabra": "Namespace",
+                    "definición": "Concepto que organiza elementos y evita conflictos de nombre en grandes proyectos de software."
+                }
+            ]
+        },
+        {
+            "letra": "O",
+            "palabras": [
+                {
+                    "palabra": "Ordered List",
+                    "definición": "Elemento de HTML que representa una lista ordenada con números."
+                },
+                {
+                    "palabra": "Overflow",
+                    "definición": "Propiedad de CSS que controla cómo se muestra el contenido que excede el área de un contenedor."
+                },
+                {
+                    "palabra": "Open Source",
+                    "definición": "Software cuyo código fuente está disponible para ser modificado y compartido."
+                }
+            ]
+        },
+        {
+            "letra": "P",
+            "palabras": [
+                {
+                    "palabra": "Push",
+                    "definición": "Comando de Git que sube los cambios locales a un repositorio remoto."
+                },
+                {
+                    "palabra": "Pull Request",
+                    "definición": "Solicitud en GitHub para fusionar cambios propuestos en un repositorio."
+                },
+                {
+                    "palabra": "Paragraph",
+                    "definición": "Elemento de HTML utilizado para representar un párrafo de texto."
+                }
+            ]
+        },
+        {
+            "letra": "Q",
+            "palabras": [
+                {
+                    "palabra": "Query Selector",
+                    "definición": "Método de JavaScript para seleccionar elementos del DOM."
+                },
+                {
+                    "palabra": "Quickstart",
+                    "definición": "Guía rápida para comenzar con un proyecto o herramienta."
+                },
+                {
+                    "palabra": "Quote",
+                    "definición": "Elemento de HTML utilizado para incluir citas en un documento."
+                }
+            ]
+        },
+        {
+            "letra": "R",
+            "palabras": [
+                {
+                    "palabra": "Repository",
+                    "definición": "Almacén de archivos de código que guarda el historial de cambios."
+                },
+                {
+                    "palabra": "Responsive",
+                    "definición": "Técnica de diseño web que permite que un sitio se adapte a diferentes tamaños de pantalla."
+                },
+                {
+                    "palabra": "Reset",
+                    "definición": "Hoja de estilo que elimina la configuración predeterminada del navegador para unificar el estilo base."
+                }
+            ]
+        },
+        {
+            "letra": "S",
+            "palabras": [
+                {
+                    "palabra": "Selector",
+                    "definición": "Elemento de CSS que define a qué partes del documento se aplicarán los estilos."
+                },
+                {
+                    "palabra": "Section",
+                    "definición": "Elemento semántico de HTML que agrupa contenido relacionado."
+                },
+                {
+                    "palabra": "SSH Key",
+                    "definición": "Clave de seguridad utilizada para autenticar conexiones a un servidor o repositorio remoto."
+                }
+            ]
+        },
+        {
+            "letra": "T",
+            "palabras": [
+                {
+                    "palabra": "Tag",
+                    "definición": "Elemento básico de HTML que define la estructura del contenido."
+                },
+                {
+                    "palabra": "Terminal",
+                    "definición": "Interfaz de línea de comandos utilizada para ejecutar comandos."
+                },
+                {
+                    "palabra": "Transform",
+                    "definición": "Propiedad de CSS que aplica cambios geométricos a un elemento, como rotaciones o escalas."
+                }
+            ]
+        },
+        {
+            "letra": "U",
+            "palabras": [
+                {
+                    "palabra": "Unordered List",
+                    "definición": "Elemento de HTML que representa una lista desordenada con viñetas."
+                },
+                {
+                    "palabra": "Update",
+                    "definición": "Acción de sincronizar un repositorio local con los cambios realizados en el repositorio remoto."
+                },
+                {
+                    "palabra": "URL",
+                    "definición": "Dirección web que identifica un recurso en internet."
+                }
+            ]
+        },
+        {
+            "letra": "V",
+            "palabras": [
+                {
+                    "palabra": "Viewport",
+                    "definición": "Área visible de una página web en el navegador."
+                },
+                {
+                    "palabra": "Version Control",
+                    "definición": "Sistema que registra los cambios realizados en un archivo o conjunto de archivos."
+                },
+                {
+                    "palabra": "Variable",
+                    "definición": "Concepto en CSS y programación que almacena un valor que puede cambiarse."
+                }
+            ]
+        },
+        {
+            "letra": "W",
+            "palabras": [
+                {
+                    "palabra": "Web Development",
+                    "definición": "Proceso de creación y mantenimiento de sitios web."
+                },
+                {
+                    "palabra": "Wireframe",
+                    "definición": "Esquema visual de una página web utilizado en la planificación del diseño."
+                },
+                {
+                    "palabra": "Wrapper",
+                    "definición": "Elemento que contiene otros elementos y se utiliza para aplicar estilos de diseño."
+                }
+            ]
+        },
+        {
+            "letra": "X",
+            "palabras": [
+                {
+                    "palabra": "XML",
+                    "definición": "Lenguaje de marcado que define reglas para codificar documentos en un formato legible."
+                },
+                {
+                    "palabra": "XHTML",
+                    "definición": "Versión de HTML que cumple con las reglas de XML."
+                },
+                {
+                    "palabra": "X-Frame-Options",
+                    "definición": "Cabecera de seguridad que controla si una página puede ser embebida en un frame de otra página."
+                }
+            ]
+        },
+        {
+            "letra": "Y",
+            "palabras": [
+                {
+                    "palabra": "YAML",
+                    "definición": "Formato de serialización de datos legible por humanos, utilizado en configuraciones."
+                },
+                {
+                    "palabra": "Yarn",
+                    "definición": "Gestor de paquetes para proyectos de JavaScript."
+                },
+                {
+                    "palabra": "Yield",
+                    "definición": "Palabra clave en programación que pausa una función generadora y reanuda su ejecución."
+                }
+            ]
+        },
+        {
+            "letra": "Z",
+            "palabras": [
+                {
+                    "palabra": "Z-index",
+                    "definición": "Propiedad de CSS que define el orden de apilamiento de elementos superpuestos."
+                },
+                {
+                    "palabra": "Zoom",
+                    "definición": "Función que ajusta el tamaño de visualización de un contenido web."
+                },
+                {
+                    "palabra": "Zsh",
+                    "definición": "Shell de Unix que extiende las capacidades de la terminal."
+                }
+            ]
+        }
+    ]
+}
