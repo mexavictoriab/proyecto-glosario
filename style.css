@@ -15,10 +15,6 @@ body{
     background-color: var(--principal);
 }
 
-.seleccionado{
-    color: var(--complementario);
-}
-
 .encabezado{
     height: 15dvh;
     padding-left: 70px;
@@ -56,6 +52,11 @@ body{
     color: var(--secundario);
     cursor: pointer;
 }
+
+.barra-navegacion ul li.seleccionado a{
+    color: var(--complementario);
+}
+
 .glosario{
     width: 95%;
     display: flex;
