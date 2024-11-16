@@ -21,11 +21,12 @@ body{
 
 .encabezado{
     height: 15dvh;
-    padding-left: 35px;
+    padding-left: 70px;
 }
 
 .encabezado h1{
     color: var(--complementario);
+    font-size: 64px;
 }
 
 .contenido{
@@ -48,6 +49,7 @@ body{
 .barra-navegacion ul li {
     display: inline-block;
     margin: 0 10px;
+    font-size: 34px;
 }
 
 .barra-navegacion ul li a{
@@ -91,7 +93,7 @@ body{
 
 .letra-adelante, .letra-atras{
     font-weight: bold;
-    font-size: 220px;
+    font-size: 440px;
     text-align: right;
     width: 100%;
     padding-right: 15px;
@@ -99,6 +101,7 @@ body{
 
 .palabras{
     padding: 10px;
+    font-size: 32px;
 }
 
 .palabra p:nth-child(1) {
